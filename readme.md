@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=>
-</p>
-
 # FindYourDuoBot
 
 Bem-vindo ao **FindYourDuoBot**, um bot para Discord projetado para ajudar jogadores a encontrar **duos**! Bot foi feito com intuito de ajudar uma comunidade específica no Discord.
@@ -17,5 +13,3 @@ Bem-vindo ao **FindYourDuoBot**, um bot para Discord projetado para ajudar jogad
 2. **Variáveis de ambiente**: Copie `.env-example` complete com as informações e altere para `.env`
 
 3. **Rodando o projeto**: `python bot.py`
-
-## Working images
